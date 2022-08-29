@@ -9,7 +9,7 @@
 
 - 🏷️ Yapmakta proje [Gelişmiş kişisel sesli asaitan]( https://github.com/ARQUART/Rise-Of-Gamers) /github.com/ARQUART/sesliasist)
 
-- ⚙️ Yapmayı planladığım proje**Sesli asistan ile yapay yapay zeka**
+- ⚙️ Yapmayı planladığım proje **Sesli asistan ile yapay yapay zeka**
 
 <h3 align="left">Bana ulaş:</h3>
 
