@@ -5,7 +5,7 @@
 
 
 
-- 🖤 İlk yasptıgım proje [Discord bot](https://github.com/ARQUART/Rise-Of-Gamers)
+- 🖤 İlk yaptıgım proje [Discord bot](https://github.com/ARQUART/Rise-Of-Gamers)
 
 - 🏷️ Yapmakta proje [Gelişmiş kişisel sesli asaitan]( https://github.com/ARQUART/Rise-Of-Gamers) /github.com/ARQUART/sesliasist)
 
