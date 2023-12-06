@@ -7,7 +7,7 @@
 
 - 🖤 İlk yaptıgım proje [Discord bot](https://github.com/ARQUART/Rise-Of-Gamers)
 
-- 🏷️ Yapmakta proje [Gelişmiş kişisel sesli asaitan]( https://github.com/ARQUART/Rise-Of-Gamers) /github.com/ARQUART/sesliasist)
+- 🏷️ Yapmakta proje [Gelişmiş kişisel sesli asistan]( https://github.com/ARQUART/Rise-Of-Gamers) /github.com/ARQUART/sesliasist)
 
 - ⚙️ Yapmayı planladığım proje **Sesli asistan ile yapay zeka**
 
